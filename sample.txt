@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 SAMPLE FILE
 
 
 GITBASH COMMANDS
 gdjkhjhdgaschadjcbg
+=======
+hkkgjwfhajfwelhwhfwlghwukdgwfgffgwelhe
+>>>>>>> NewFeature
